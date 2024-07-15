@@ -11,7 +11,7 @@
 
 <!--## My Articles-->
 
-## Tech Stack
+## Language and Tools
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,js,html,css,docker,django,flask,postgres,sqlite)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
