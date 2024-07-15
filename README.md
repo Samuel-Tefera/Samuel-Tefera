@@ -1,6 +1,6 @@
-# Hi, I'm <Samuel Tefera>! 👋
+# Hi, I'm Samuel Tefera! 👋
 
-![<Samuel-Tefera>'s Stats](https://github-readme-stats.vercel.app/api?username=<Samuel-Tefera>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Samuel-Tefera's Stats](https://github-readme-stats.vercel.app/api?username=Samuel-Tefera&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
