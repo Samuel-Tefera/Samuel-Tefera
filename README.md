@@ -1,4 +1,35 @@
-## Hi there 👋
+# Hi, I'm <Samuel Tefera>! 👋
+
+![<Samuel-Tefera>'s Stats](https://github-readme-stats.vercel.app/api?username=<Samuel-Tefera>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+## 🚀 About Me
+
+- I'm currently second year software enginnering student in Wachemo University.
+- Deeply passionate about problem-solving, innovation, and the incredible potential of AI.
+- Constantly seeking new challenges and pushing the bounderies of what's possible, I'm dedicated to honing my skills and expanding my knowledge in the ever-evolving field of software development from building robust application to exploring cutting-edge AI algorithms.
+- As a lifelong learner, I'm exploring new tools, framework, and methodologies to enhance my skills set and deliver high-quality software.
+
+<!--## My Articles-->
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,js,html,css,docker,django,flask,postgres,sqlite)](https://skillicons.dev)
+
+## 🌱 Currently Exploring
+
+- 🚀 Learning development Of Rest API 
+  - Docker.
+  - Building server-side applications with Django, a powerful Python web framework.
+  - Diving into MySQL for efficient and scalable database management.
+
+ <!--## 🏆 Achievements
+
+- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.-->
+
+
+<## 📬 Get in Touch
+- Connect with me on [Telegram](https://t.me/samuelTefera7)
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
 <!--
 **Samuel-Tefera/Samuel-Tefera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
