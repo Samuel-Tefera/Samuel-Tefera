@@ -1,4 +1,4 @@
-# Hi, I'm Samuel Tefera! 👋
+# Hi there,Samuel is here👋
 
 ![Samuel-Tefera's Stats](https://github-readme-stats.vercel.app/api?username=Samuel-Tefera&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
