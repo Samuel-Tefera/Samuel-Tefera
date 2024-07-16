@@ -1,6 +1,6 @@
 # Hi there,Samuel is here👋
 
-![Samuel-Tefera's Stats](https://github-readme-stats.vercel.app/api?username=Samuel-Tefera&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Samuel-Tefera's Stats](https://github-readme-stats.vercel.app/api?username=Samuel-Tefera&theme=transparent&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
@@ -16,7 +16,7 @@
 
 
 ## Most Languge Used
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Tefera&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Tefera&layout=compact&theme=transparent)
 
 ## 🌱 Currently Exploring
 
