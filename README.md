@@ -14,6 +14,10 @@
 ## Language and Tools
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,js,html,css,docker,django,flask,postgres,sqlite)](https://skillicons.dev)
 
+
+## Most Languge Used
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Tefera&layout=compact)
+
 ## 🌱 Currently Exploring
 
 - 🚀 Learning development Of Rest API 
