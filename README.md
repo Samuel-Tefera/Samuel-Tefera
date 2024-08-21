@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-- I'm currently second year software enginnering student in Wachemo University.
+- I'm currently second year software enginnering student at Wachemo University.
 - Deeply passionate about problem-solving, innovation, and the incredible potential of AI.
 - Constantly seeking new challenges and pushing the bounderies of what's possible, I'm dedicated to honing my skills and expanding my knowledge in the ever-evolving field of software development from building robust application to exploring cutting-edge AI algorithms.
 - As a lifelong learner, I'm exploring new tools, framework, and methodologies to enhance my skills set and deliver high-quality software.
