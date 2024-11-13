@@ -10,7 +10,7 @@
 <!--## My Articles-->
 
 ## Language and Tools
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,js,html,css,git,bootstrap,docker,django,flask,postgres,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,js,html,css,git,bootstrap,docker,django,flask,postgres,sqlite,react,java)](https://skillicons.dev)
 
 
 ## Most Languge Used
