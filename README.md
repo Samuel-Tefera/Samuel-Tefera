@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-- I'm currently third year software enginnering student at Wachemo University.
+- I'm currently fourth year software enginnering student at Wachemo University.
 - Deeply passionate about problem-solving, innovation, and the incredible potential of AI.
 
 <!--## My Articles-->
