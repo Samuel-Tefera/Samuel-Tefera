@@ -1,6 +1,6 @@
-# Hello there
+# Hello there 
 
-I'm Samuel, and I enjoy turning ideas into software.
+### I'm Samuel, and I enjoy turning ideas into software.
 
 <p align="left">
   <a href="https://samueltefera.pro.et">Website</a> &nbsp;·&nbsp;
